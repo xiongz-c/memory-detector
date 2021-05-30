@@ -13,7 +13,7 @@ g++ -o Monitor.cpp -o demo -lncurses
 - `./demo -t`：Real-time monitoring of all threads running in the system.
 - `./demo -p [pid]`：Real-time monitoring of all threads running under a process and the allocation and release of file descriptors in that process.
 
-### Leak Dection Tool
+### Leak Detection Tool
 
 #### Compile
 
