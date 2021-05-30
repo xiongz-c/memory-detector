@@ -1,0 +1,18 @@
+There may be 1 memory leaks.
+
+The memory in addres :0x5607b788b1f0 24576bytes
+The stack Info: 
+=======================================================
+0x5607b788b1f0
+Obtained 10 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f2d8354a34f]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f2d83549d64]
+./test(_ZN9__gnu_cxx13new_allocatorI7processE8allocateEmPKv+0x4d) [0x5607b5cfb50b]
+./test(_ZNSt16allocator_traitsISaI7processEE8allocateERS1_m+0x2c) [0x5607b5cfa196]
+./test(_ZNSt12_Vector_baseI7processSaIS0_EE11_M_allocateEm+0x2e) [0x5607b5cf9286]
+./test(_ZNSt6vectorI7processSaIS0_EE17_M_realloc_insertIJRKS0_EEEvN9__gnu_cxx17__normal_iteratorIPS0_S2_EEDpOT_+0x95) [0x5607b5cf7c93]
+./test(_ZNSt6vectorI7processSaIS0_EE9push_backERKS0_+0x7f) [0x5607b5cf6d01]
+./test(_Z26get_process_info_from_pathSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE+0x776) [0x5607b5cf36ec]
+./test(_Z9init_datav+0x457) [0x5607b5cf54e5]
+./test(main+0x1c7) [0x5607b5cf58e5]
+=======================================================

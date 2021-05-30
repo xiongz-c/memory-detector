@@ -1,0 +1,1102 @@
+There may be 100 memory leaks.
+
+The memory in addres :0x56171725d860 4bytes
+The stack Info: 
+=======================================================
+0x56171725d860
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725eaf0 4bytes
+The stack Info: 
+=======================================================
+0x56171725eaf0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725eb90 4bytes
+The stack Info: 
+=======================================================
+0x56171725eb90
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725ec30 4bytes
+The stack Info: 
+=======================================================
+0x56171725ec30
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725ecd0 4bytes
+The stack Info: 
+=======================================================
+0x56171725ecd0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725ed70 4bytes
+The stack Info: 
+=======================================================
+0x56171725ed70
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725ee10 4bytes
+The stack Info: 
+=======================================================
+0x56171725ee10
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725eeb0 4bytes
+The stack Info: 
+=======================================================
+0x56171725eeb0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725ef50 4bytes
+The stack Info: 
+=======================================================
+0x56171725ef50
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725eff0 4bytes
+The stack Info: 
+=======================================================
+0x56171725eff0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725f090 4bytes
+The stack Info: 
+=======================================================
+0x56171725f090
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725f130 4bytes
+The stack Info: 
+=======================================================
+0x56171725f130
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725f1d0 4bytes
+The stack Info: 
+=======================================================
+0x56171725f1d0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725f270 4bytes
+The stack Info: 
+=======================================================
+0x56171725f270
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725f310 4bytes
+The stack Info: 
+=======================================================
+0x56171725f310
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725f3b0 4bytes
+The stack Info: 
+=======================================================
+0x56171725f3b0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725f450 4bytes
+The stack Info: 
+=======================================================
+0x56171725f450
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725f4f0 4bytes
+The stack Info: 
+=======================================================
+0x56171725f4f0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725f590 4bytes
+The stack Info: 
+=======================================================
+0x56171725f590
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725f630 4bytes
+The stack Info: 
+=======================================================
+0x56171725f630
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725f6d0 4bytes
+The stack Info: 
+=======================================================
+0x56171725f6d0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725f770 4bytes
+The stack Info: 
+=======================================================
+0x56171725f770
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725f810 4bytes
+The stack Info: 
+=======================================================
+0x56171725f810
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725f8b0 4bytes
+The stack Info: 
+=======================================================
+0x56171725f8b0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725f950 4bytes
+The stack Info: 
+=======================================================
+0x56171725f950
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725f9f0 4bytes
+The stack Info: 
+=======================================================
+0x56171725f9f0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725fa90 4bytes
+The stack Info: 
+=======================================================
+0x56171725fa90
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725fb30 4bytes
+The stack Info: 
+=======================================================
+0x56171725fb30
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725fbd0 4bytes
+The stack Info: 
+=======================================================
+0x56171725fbd0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725fc70 4bytes
+The stack Info: 
+=======================================================
+0x56171725fc70
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725fd10 4bytes
+The stack Info: 
+=======================================================
+0x56171725fd10
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725fdb0 4bytes
+The stack Info: 
+=======================================================
+0x56171725fdb0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725fe50 4bytes
+The stack Info: 
+=======================================================
+0x56171725fe50
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725fef0 4bytes
+The stack Info: 
+=======================================================
+0x56171725fef0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x56171725ff90 4bytes
+The stack Info: 
+=======================================================
+0x56171725ff90
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717260030 4bytes
+The stack Info: 
+=======================================================
+0x561717260030
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x5617172600d0 4bytes
+The stack Info: 
+=======================================================
+0x5617172600d0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717260170 4bytes
+The stack Info: 
+=======================================================
+0x561717260170
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717260210 4bytes
+The stack Info: 
+=======================================================
+0x561717260210
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x5617172602b0 4bytes
+The stack Info: 
+=======================================================
+0x5617172602b0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717260350 4bytes
+The stack Info: 
+=======================================================
+0x561717260350
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x5617172603f0 4bytes
+The stack Info: 
+=======================================================
+0x5617172603f0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717260490 4bytes
+The stack Info: 
+=======================================================
+0x561717260490
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717260530 4bytes
+The stack Info: 
+=======================================================
+0x561717260530
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x5617172605d0 4bytes
+The stack Info: 
+=======================================================
+0x5617172605d0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717260670 4bytes
+The stack Info: 
+=======================================================
+0x561717260670
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717260710 4bytes
+The stack Info: 
+=======================================================
+0x561717260710
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x5617172607b0 4bytes
+The stack Info: 
+=======================================================
+0x5617172607b0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717260850 4bytes
+The stack Info: 
+=======================================================
+0x561717260850
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x5617172608f0 4bytes
+The stack Info: 
+=======================================================
+0x5617172608f0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717260990 4bytes
+The stack Info: 
+=======================================================
+0x561717260990
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717260a30 4bytes
+The stack Info: 
+=======================================================
+0x561717260a30
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717260ad0 4bytes
+The stack Info: 
+=======================================================
+0x561717260ad0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717260b70 4bytes
+The stack Info: 
+=======================================================
+0x561717260b70
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717260c10 4bytes
+The stack Info: 
+=======================================================
+0x561717260c10
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717260cb0 4bytes
+The stack Info: 
+=======================================================
+0x561717260cb0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717260d50 4bytes
+The stack Info: 
+=======================================================
+0x561717260d50
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717260df0 4bytes
+The stack Info: 
+=======================================================
+0x561717260df0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717260e90 4bytes
+The stack Info: 
+=======================================================
+0x561717260e90
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717260f30 4bytes
+The stack Info: 
+=======================================================
+0x561717260f30
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717260fd0 4bytes
+The stack Info: 
+=======================================================
+0x561717260fd0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717261070 4bytes
+The stack Info: 
+=======================================================
+0x561717261070
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717261110 4bytes
+The stack Info: 
+=======================================================
+0x561717261110
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x5617172611b0 4bytes
+The stack Info: 
+=======================================================
+0x5617172611b0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717261250 4bytes
+The stack Info: 
+=======================================================
+0x561717261250
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x5617172612f0 4bytes
+The stack Info: 
+=======================================================
+0x5617172612f0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717261390 4bytes
+The stack Info: 
+=======================================================
+0x561717261390
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717261430 4bytes
+The stack Info: 
+=======================================================
+0x561717261430
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x5617172614d0 4bytes
+The stack Info: 
+=======================================================
+0x5617172614d0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717261570 4bytes
+The stack Info: 
+=======================================================
+0x561717261570
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717261610 4bytes
+The stack Info: 
+=======================================================
+0x561717261610
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x5617172616b0 4bytes
+The stack Info: 
+=======================================================
+0x5617172616b0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717261750 4bytes
+The stack Info: 
+=======================================================
+0x561717261750
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x5617172617f0 4bytes
+The stack Info: 
+=======================================================
+0x5617172617f0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717261890 4bytes
+The stack Info: 
+=======================================================
+0x561717261890
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717261930 4bytes
+The stack Info: 
+=======================================================
+0x561717261930
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x5617172619d0 4bytes
+The stack Info: 
+=======================================================
+0x5617172619d0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717261a70 4bytes
+The stack Info: 
+=======================================================
+0x561717261a70
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717261b10 4bytes
+The stack Info: 
+=======================================================
+0x561717261b10
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717261bb0 4bytes
+The stack Info: 
+=======================================================
+0x561717261bb0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717261c50 4bytes
+The stack Info: 
+=======================================================
+0x561717261c50
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717261cf0 4bytes
+The stack Info: 
+=======================================================
+0x561717261cf0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717261d90 4bytes
+The stack Info: 
+=======================================================
+0x561717261d90
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717261e30 4bytes
+The stack Info: 
+=======================================================
+0x561717261e30
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717261ed0 4bytes
+The stack Info: 
+=======================================================
+0x561717261ed0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717261f70 4bytes
+The stack Info: 
+=======================================================
+0x561717261f70
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717262010 4bytes
+The stack Info: 
+=======================================================
+0x561717262010
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x5617172620b0 4bytes
+The stack Info: 
+=======================================================
+0x5617172620b0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717262150 4bytes
+The stack Info: 
+=======================================================
+0x561717262150
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x5617172621f0 4bytes
+The stack Info: 
+=======================================================
+0x5617172621f0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717262290 4bytes
+The stack Info: 
+=======================================================
+0x561717262290
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717262330 4bytes
+The stack Info: 
+=======================================================
+0x561717262330
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x5617172623d0 4bytes
+The stack Info: 
+=======================================================
+0x5617172623d0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717262470 4bytes
+The stack Info: 
+=======================================================
+0x561717262470
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717262510 4bytes
+The stack Info: 
+=======================================================
+0x561717262510
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x5617172625b0 4bytes
+The stack Info: 
+=======================================================
+0x5617172625b0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717262650 4bytes
+The stack Info: 
+=======================================================
+0x561717262650
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x5617172626f0 4bytes
+The stack Info: 
+=======================================================
+0x5617172626f0
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717262790 4bytes
+The stack Info: 
+=======================================================
+0x561717262790
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
+The memory in addres :0x561717262830 4bytes
+The stack Info: 
+=======================================================
+0x561717262830
+Obtained 5 stack frames.
+./Lib/libMemTracker.so(_Z11print_tracePv+0x52) [0x7f39bd114368]
+./Lib/libMemTracker.so(_Znwm+0xa9) [0x7f39bd113d7d]
+./test3(main+0x23) [0x5617170a322c]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf3) [0x7f39bcd5a0b3]
+./test3(_start+0x2e) [0x5617170a314e]
+=======================================================
